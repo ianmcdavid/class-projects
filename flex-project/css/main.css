@@ -106,28 +106,7 @@ body {
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
-
 }
-
-header {
-    display: flex;
-    flex-flow: column nowrap;
-     }
-
-.top {
-    border: 2px solid #cccff7;
-    padding: 1em;
-    display: flex;
-    flex-basis: 100%;
-}
-
-h1 {
-    font-size: 2em;
-}
-h2 {
-    font-size: 1rem;
-}
-
 
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
@@ -140,7 +119,7 @@ h2 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #cccff7;
   line-height: 1em;
-  font-size: 1rem;
+  font-size: 1em;
   background-color: #363742;
   height: 300px;
   display: flex;
@@ -152,20 +131,7 @@ h2 {
   border: 2px solid #cccff7;
 }
 
-footer {
-    display:flex;
-    width: 100%;
-}
 
-.soc-med {
-    display: flex;
-    justify-content: space-between;
-}
-
-#s-1, #s-2, #s-3 {
-    display: flex;
-    width: 20%;
-}
 
 
 /* ==========================================================================
